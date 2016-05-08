@@ -19,7 +19,7 @@ Download and include j-upload-preview.min.js and follow the instructions below.
 ```html
 
 <div class="j-preview-upload" id="upload-container">
-     <img src="path/to/preview_image" class="preview-img" />
+     <img src="path/to/preview_image" />
      <input type="file" class="upload-file" />
 </div>
 
