@@ -9,9 +9,9 @@ This is the jquery drop and drop image upload with preview image. This plugin is
 
 ###Usage
 ```
-Include j-preview-upload.min.css file in your html.
+Download and include j-preview-upload.min.css file in your html.
 Include jquery after css file.
-Include j-upload-preview.min.js and follow the instructions below.
+Download and include j-upload-preview.min.js and follow the instructions below.
 ```
 
 ###This is the example of HTML markup
