@@ -31,7 +31,7 @@ You can customize in the JS code as well using the options(Described below)
 Container must have the class name 'j-preview-upload'
 ```
 
-###This is how to initialze in JS
+###This is how to initialze it in JS
 ```html
 $(function(){
 	$('#upload-container').jPreviewUpload()
