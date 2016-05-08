@@ -4,7 +4,7 @@ This is the jquery drop and drop image upload with preview image. This plugin is
 ####This is the simple preview before and after you choose image file
 
 ![alt tag](https://github.com/waiyanhein/j-preview-upload/blob/master/preview_image.png)
-####Note
+###Note
 >Design is fully customizable. So you can set whatever image or color or size you want for preview.
 
 ###Usage
