@@ -7,6 +7,7 @@ This is the jquery drop and drop image upload with preview image. This plugin is
 ###Note
 ```
 Design is fully customizable. So you can set whatever image or color or size you want for preview.
+It will automatically check for the png,jpg,jpeg and gif extension for preview image.
 ```
 
 ###Usage
