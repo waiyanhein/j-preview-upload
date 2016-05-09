@@ -5,17 +5,15 @@ This is the jquery drop and drop image upload with preview image. This plugin is
 
 ![preview screenshot](https://github.com/waiyanhein/j-preview-upload/blob/master/preview_image.png)
 ###Note
->Design is fully customizable. So you can set whatever image or color or size you want for preview.
+```
+Design is fully customizable. So you can set whatever image or color or size you want for preview.
+```
 
 ###Usage
 ```
 Download and include j-preview-upload.min.css file in your html.
 Include jquery after css file.
 Download and include j-upload-preview.min.js and follow the instructions below.
-```
-###Validation for client side
-```
-You need to be done it yourseif in client side cause I want this plugin fully customizable. But in the future, I will add it.
 ```
 
 ###This is the example of HTML markup
