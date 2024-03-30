@@ -1,19 +1,19 @@
 # j-preview-upload
-This is the jquery drop and drop image upload with preview image. This plugin is fully customizable, very simple and easy to use.
+This is a jQuery drag and drop image upload plugin with a preview image feature. The plugin is fully customizable, very simple, and easy to use.
 
-#### This is the simple preview before and after you choose image file
+#### This provides a simple preview before and after you choose an image file.
 
 ![preview screenshot](https://github.com/waiyanhein/j-preview-upload/blob/master/preview_image.png)
 ### Note
 ```
-Design is fully customizable. So you can set whatever image or color or size you want for preview.
-It will automatically check for the png,jpg,jpeg and gif extension for preview image.
+The design is fully customizable, allowing you to set whatever image, color, or size you want for the preview.
+It will automatically detect the png, jpg, jpeg, and gif extensions for the preview image.
 ```
 
 ### Usage
 ```
 Download and include j-preview-upload.min.css file in your html.
-Include jquery after css file.
+Include jquery right after including the css file.
 Download and include j-upload-preview.min.js and follow the instructions below.
 ```
 
@@ -30,11 +30,11 @@ Download and include j-upload-preview.min.js and follow the instructions below.
 ### NOTE
 ```
 In the above HTML, #upload-container is the preview container. You can customize the design by overriding the CSS.
-You can customize in the JS code as well using the options(Described below)
-Container must have the class name 'j-preview-upload'
+You can also customize the styling in the JS code or using the options (described below).
+Container must have the class 'j-preview-upload'
 ```
 
-### This is how to initialze it in JS
+### Initialisation
 ```html
 $(function(){
 	$('#upload-container').jPreviewUpload()
